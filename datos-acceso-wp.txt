@@ -1,0 +1,3 @@
+Credenciales de Wordpress
+Usuario: globe_adm
+Contraseña: globe_adm
